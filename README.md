@@ -1,4 +1,4 @@
-# TTGO-ESP32-GPS
+# TTGO ESP32 GPS
 
 ## Devices
 
